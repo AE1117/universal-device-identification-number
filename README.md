@@ -1,0 +1,1 @@
+While working on a web project, we give a (user id) to users who register on the site. However, if we are dealing with distributed systems, this may be a bit complicated for beginners. Thanks to this code, you can give a unique (user id) to every user registered in the system.
