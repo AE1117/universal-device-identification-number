@@ -31,7 +31,8 @@ Import file to project:
 
 Function example:
 
-        print(get_internal_device_id(mac_address=True,ip_address=True,uuid=True,randomizer=False))
+        device_id = get_internal_device_id(mac_address=True,ip_address=True,uuid=True,randomizer=False)
+        print(device_id)
 
 
 While creating this id, you can determine what data it contains. The example above is default. By setting the randomizer option to True, you can add a random number between 1 and 100000000 to the end of the data set before hashing.
