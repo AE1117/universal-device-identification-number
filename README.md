@@ -18,7 +18,7 @@ Then optionally we adding a random number 1 to 100000000:
 
 We then put this data in order
 
-        data = f"{ip}{mac}{uuid}{number}
+        data = f"{ip}{mac}{uuid}{number}"
 
 Then we hash this data
 
