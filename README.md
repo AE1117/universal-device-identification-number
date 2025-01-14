@@ -25,9 +25,13 @@ Then we hash this data
 
 Usage:
 
-from device_id.get_internal_device_id import get_internal_device_id
+Import file to project:
 
-print(get_internal_device_id(mac_address=True,ip_address=True,uuid=True,randomizer=False))
+        from device_id.get_internal_device_id import get_internal_device_id
+
+Function example:
+
+        print(get_internal_device_id(mac_address=True,ip_address=True,uuid=True,randomizer=False))
 
 
 While creating this id, you can determine what data it contains. The example above is default. By setting the randomizer option to True, you can add a random number between 1 and 100000000 to the end of the data set before hashing.
