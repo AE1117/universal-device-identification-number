@@ -1,6 +1,6 @@
 While working on a web project, we give a (user id) to users who register on the site. However, if we are dealing with distributed systems, this may be a bit complicated for beginners. Thanks to this code, you can give a unique (user id) to every user registered in the system.
 
-How does it work?
+How does it work? \n
 We optionally collect some of the user's data. These data:
 -IP Address E.g:   192.168.1.1
 -MAC Address E.g:   68:7F:74:F2:EA:56
