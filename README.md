@@ -28,7 +28,7 @@ Usage:
 
 Import file to project:
 
-        from device_id.get_internal_device_id import get_internal_device_id
+        from get_internal_device_id import get_internal_device_id
 
 Function example:
 
