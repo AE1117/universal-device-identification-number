@@ -5,15 +5,15 @@ How does it work?
 
 We optionally collect some of the user's data. These data:
 
--IP Address E.g:   192.168.1.1
+    -IP Address E.g:   192.168.1.1
 
--MAC Address E.g:   68:7F:74:F2:EA:56
+    -MAC Address E.g:   68:7F:74:F2:EA:56
 
--UUID E.g:    123456789014
+    -UUID E.g:    123456789014
 
 Then optionally we adding a random number 1 to 100000000:
 
--Number E.g:  8348349
+    -Number E.g:  8348349
 
 
 We then put this data in order
