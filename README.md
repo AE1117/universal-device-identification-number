@@ -7,7 +7,7 @@ We optionally collect some of the user's data. These data:
 
     -IP Address E.g:   192.168.1.1
 
-    -MAC Address E.g:   68:7F:74:F2:EA:56
+    -MAC Address E.g:   48:8G:62:C2:EA:21
 
     -UUID E.g:    123456789014
 
